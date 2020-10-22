@@ -1,0 +1,28 @@
+/* accessig a element */
+h2{
+    color:orange;
+        background-color:black;}
+/* accessing a id */
+#m{
+    color:purple;
+    background-color:black;
+/* accessing a class */
+}
+.h4{
+    color: white;
+    background-color:black;
+}
+/* accessing two or more elements at same time */
+h3,h4{
+    color:green;
+    background-color:black;
+}
+div{
+    color:green;
+    background-color:black;
+}
+span{
+    color:green;
+    background-color:black;
+    text-transform:uppercase;
+}

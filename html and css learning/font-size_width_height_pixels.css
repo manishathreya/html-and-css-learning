@@ -1,0 +1,34 @@
+.outer{
+    width:500px;
+    height:500px;
+    background:blue;
+}
+.inner{
+    width:50%;
+    height:50%;
+    background:orange;
+}
+div{
+    font-size:30px;
+}
+.relative{
+    font-size:2em;
+}
+.absolute{
+    font-size:32px;
+}
+.banner{
+    width:50vw;
+    height:50vh;
+    background:red;
+}
+.navbar{
+    background:blue;
+    height:100px;
+    color:white;
+    font-size:3rem
+}
+.bannern{
+    background:red;
+    min-height:calc(100vh - 100px);
+}

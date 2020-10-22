@@ -1,0 +1,26 @@
+body{
+    color:yellow;
+    background:rgba(0, 0, 0, 0.09);}
+div{ 
+    color:black;
+    background:white;
+    line-height:1.5em;
+    width: 200px;
+    height:400px;
+}
+/* Last rule property and specificity */
+/* * is the universal selector */
+/* rgb and rgba */
+/* font-sizr,width,height,pixels */
+/* em values = relative values  */
+/* calc function */
+/* typography = font-size,generic family,google fonts */
+/* importing google fonts, */
+/* font-weight = bolder font */
+/* text align and text-indent */
+/* line-heignt,letter-spacing,word-spacing,text-transform,text-decoration */
+/* css box model */
+/* padding */
+/* border */
+/* margin */
+/* border-radius,negative margin */
