@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+div{
+    min-height:1--vh;
+    color:red;
+    font-size:30px;
+    ******display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+.big-img{
+    background:url("enter url");
+    background-size:cover,contain;
+    background-position:center;
+    background-position:bottom;
+    background-position:left;
+    background-position:right;
+    background-position:top;
+    background-position:20% 50%;
+    background-attachment: fixed;
+}
+/* .small-img{
+    background:url("enter url");
+    background-repeat:repeat,no-repeat,repeat-x,.....; */
+}
+.folder-img{
+    background:url("enter url");
+}
