@@ -38,3 +38,9 @@ h1{
         font-family:Verdana, Geneva, Tahoma, sans-serif;
     }
 }
+
+/* pseudo elements */
+/* adding text after and before content we use them as p::after or p::before  */
+/* z-index very important controls are top bottom left and right 
+you can even do this below
+a:div::after{content}*/
