@@ -1,0 +1,32 @@
+*{
+    color:red;
+}
+#heading{
+    font-size:40px;
+    text-transform:uppercase;
+    color:blue;
+}
+.heading{
+    font-size:20px;
+    text-transform:capitalize;
+    color:green;
+}
+p{
+    letter-spacing:20px;
+}
+a:visited{
+    color:red;
+    /* if visited this colour will appear  */
+}
+a:link{
+    color:aqua;
+    /* if link not visited then this color */
+}
+a:hover{
+    color:blue;
+    /* when u point this it turns blue */
+}
+a:active{
+    color:green;
+    /* when clicking the link */
+}

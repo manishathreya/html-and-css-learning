@@ -1,0 +1,14 @@
+h1{
+    align-items:center;
+    text-align:center;
+    font-size:60px;
+    background:linear-gradient(to bottom, rgb(190, 39, 39),rgb(0,0,0));
+    color:white;
+
+}
+body{
+    background:linear-gradient(to top,rgb(11, 184, 132),rgb(0,0,244))
+}
+p{
+    color:blue;
+}
